@@ -1,4 +1,4 @@
-# Nerddevs-task-2
+# Nerddevs-task
 
 ## How to run the project:
 
